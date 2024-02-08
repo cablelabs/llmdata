@@ -4,7 +4,7 @@ publications.
 
 ## AI-Assisted Ideation
 Companion data to
-`Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models`
+[Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4721407)
 
 Please cite that paper if making use of this data.
 
