@@ -4,9 +4,17 @@ publications.
 
 ## AI-Assisted Ideation
 Companion data to
-[Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4721407)
+[Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](https://arxiv.org/abs/2402.06053)
 
-Please cite that paper if making use of this data.
+Please cite that paper if making use of this data. E.g. using the following bitex snippet:
+```Latex
+@article{sandholm2024,
+  title={{Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models}},
+  author={Thomas Sandholm and Sayandev Mukherjee and Bernardo A. Huberman},
+  journal={arXiv preprint arXiv:2402.06053},
+  year={2024}
+}
+```
 
 The generated data dumps are available in  [/aidea](aidea/).
 
