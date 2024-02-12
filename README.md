@@ -6,7 +6,7 @@ publications.
 Companion data to
 [Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models](https://arxiv.org/abs/2402.06053)
 
-Please cite that paper if making use of this data. E.g. using the following bitex snippet:
+Please cite that paper if making use of this data. E.g. using the following bibtex snippet:
 ```Latex
 @article{sandholm2024,
   title={{Randomness Is All You Need: Semantic Traversal of Problem-Solution Spaces with Large Language Models}},
